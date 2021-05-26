@@ -1,4 +1,4 @@
-# Ecom Website for MINI Project
+## Ecom Website for MINI Project
 #
 #
 #
