@@ -1,0 +1,7 @@
+React
+Canva for Logos and Graphics
+MaterialUI package for UI Components
+Flex package for alignment (Max that the search bar can go)
+react-currency-format for Currency Management and Totalling
+Stripe used for handling payments
+axios is used to make POST/GET requests
